@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppExamenT2_17_18</string>
+    <string name="txt_tvNombreMAIN">Nombre:</string>
+    <string name="txt_tvTipoMAIN">Tipo:</string>
+    <string name="txt_tvOrigenMAIN">Origen:</string>
+    <string name="txt_tvNutrientesMAIN">Nutrientes:</string>
+    <string name="txt_tvFuncionMAIN">Funcion:</string>
+    <string name="txt_btnRegistrarMAIN">Registrar Alimento</string>
+    <string name="txt_btnLimpiarMAIN">Limpiar Datos</string>
+    <string name="txt_btnConsultarMAIN">Consultar Alimento</string>
+    <string name="txt_btnEliminarDATOS">Eliminar Alimento</string>
+</resources>
